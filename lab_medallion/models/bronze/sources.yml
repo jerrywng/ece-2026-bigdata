@@ -1,5 +1,3 @@
-version: 2
-
 sources:
   - name: bronze
     description: Raw datasets uploaded to the S3 bucket by the dataset generators.
